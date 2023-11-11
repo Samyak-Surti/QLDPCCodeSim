@@ -1,4 +1,4 @@
-## Summer 2022 - Quantum Low-Density Parity Check (QLDPC) Codes
+## Quantum Low-Density Parity Check (QLDPC) Codes
 * Work on simulating the construction of hypergraph product, homological product, and semi-topological product quantum errorc orrecting (QEC) codes
 * These codes are members of a larger class of "asymptotically-good" QLDPC codes.
   * "asymptotically-good" is defined in terms of the **encoding rate** and **distance** of a code.
